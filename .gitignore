@@ -1,0 +1,12 @@
+target/
+/storage/resumes/
+/database.properties
+/src/main/resources/database.properties
+*.class
+*.log
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
